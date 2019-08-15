@@ -1,0 +1,66 @@
+
+body {
+
+  background: white;
+  font-family: sans-serif;
+}
+
+.gdp {
+  position: relative;
+width: 546px;
+height: 417px;
+left: 30px;
+top: 27px;
+
+background: #C4C4C4;
+
+}
+
+.parent {
+
+border: 2px solid black; /*puts a border to a div px sets the
+heavy the border is*/
+
+  position: relative;
+width: 500px;
+height: 373px;
+left: 24px;
+top: 23px;
+
+/* Red */
+background: #E60404;
+border-radius: 16px;
+
+}
+
+.child1 {
+
+  position:relative;
+width: 100%;
+height: 182px;
+left: 0px;
+top: 25px;
+
+background: #B70303;
+color: white;
+font-family: sans-serif;
+}
+
+
+.child2 {
+
+  position:absolute;
+  height:169px;
+  right:0px;
+  top: 0px;
+}
+
+
+.child3 {
+
+  position: absolute;
+width: 577px;
+height: 82px;
+left: 48px;
+top: 313px;
+}
